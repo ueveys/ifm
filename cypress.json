@@ -1,0 +1,6 @@
+{
+    "baseUrl": "https://www.ifm.com/",
+    "viewportWidth": 1400,
+    "viewportHeight": 1000,
+    "defaultCommandTimeout": 10000
+}

@@ -1,0 +1,21 @@
+{
+  "name": "ifm",
+  "version": "1.0.0",
+  "description": "Vorbereitung für 2. Vorstellungsgespaech!",
+  "main": "ifm_spec.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "Veysel Caparlar",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^7.3.0",
+    "cypress-xpath": "^1.6.2"
+  },
+  "dependencies": {
+    "cypress-waitfor": "^1.1.0"
+  }
+}
