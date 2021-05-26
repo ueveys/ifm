@@ -1,7 +1,7 @@
 {
   "name": "ifm",
   "version": "1.0.0",
-  "description": "Vorbereitung für 2. Vorstellungsgespaech!",
+  "description": "kleine Projekt für die Firma ifm",
   "main": "ifm_spec.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
